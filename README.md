@@ -21,5 +21,5 @@
 - Выбирать подарки
 
 ***
+![Текст с описанием картинки](https://i.ibb.co/jM1Y77b/111.jpg)
 
-<a href="https://ibb.co/Lt2y44Y"><img src="https://i.ibb.co/jM1Y77b/111.jpg" alt="111" border="0" ></a>
